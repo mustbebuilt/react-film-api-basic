@@ -1,3 +1,4 @@
+import "./Film.css";
 const Film = ({ film, handleCheck, handleDelete }) => {
   return (
     <div className='film'>

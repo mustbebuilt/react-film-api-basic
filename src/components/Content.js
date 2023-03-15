@@ -3,7 +3,6 @@ import FilmList from "./FilmList";
 const Content = ({ films, handleCheck, handleDelete }) => {
   return (
     <main>
-      {films.length}
       {films.length ? (
         <FilmList
           films={films}
