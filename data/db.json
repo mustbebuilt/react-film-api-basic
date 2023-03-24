@@ -1,0 +1,14 @@
+{
+  "wishList": [
+    {
+      "id": 1,
+      "filmTitle": "Star Wars",
+      "viewed": false
+    },
+    {
+      "id": 2,
+      "filmTitle": "Jaws",
+      "viewed": false
+    }
+  ]
+}
